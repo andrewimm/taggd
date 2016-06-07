@@ -1,0 +1,13 @@
+{
+  "name": "taggd",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">4.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
